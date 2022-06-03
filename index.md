@@ -8,17 +8,13 @@
   - Diff split screen
 
 ### Project Deliverables 
-1. refactor/p2-random.js
-[p2-random.js](p2-random.js)
+1. [p2-random.js](p2-random.js)
 
-2. refactor/p2-random-files.txt
-[p2-random-files.txt](p2-random-files.txt)
+2. [p2-random-files.txt](p2-random-files.txt)
 
-3. refactor/p2-random-commits.txt
-[p2-random-commits.txt](p2-random-commits.txt)
+3. [p2-random-commits.txt](p2-random-commits.txt)
 
-4. refactor/p2-expressions.js
-[p2-expressions.js](p2-expressions.js)
+4. [p2-expressions.js](p2-expressions.js)
 
 5. refactor/p2-vscode-diff.png
 ![p2-vscode-diff.png](p2-vscode-diff.png)
